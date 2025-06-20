@@ -18,5 +18,6 @@
 * SQL (Data Extraction and Transformation)
 * Data Storytelling & Visualization
 * HR Domain Knowledge
- **Screenshot**:-
+
+  **Screenshot**:-
   Show what the dashbaord looks like:- (https://github.com/deepak4995/Power_BI_Dashboard/blob/main/HR%20Attrition.png)
